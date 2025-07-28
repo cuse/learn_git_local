@@ -1,0 +1,34 @@
+Array
+(
+  [code] => 200
+  [status] => success
+  [data] => Array
+  (
+    [vendor_id] => 233ba9f0-e405-4d82-9817-3ae8dd867f1a
+    [id] => e4790807-1885-4405-92dd-7b3daa066026
+    [nik] => 32049543546454
+    [nama_perseorangan] => Perorangan 3
+    [negara] => 102
+    [provinsi] => 1453
+    [kota] => Bandung
+    [jalan] => Cilengkrang 2, Komplek manglayangsari
+    [kode_pos] => 41666
+    [no] => 10
+    [rekening_bank] => Array
+    (
+      [0] => Array
+      (
+        [id_pengadaan] => 1
+        [id] => 79755f14-dd9a-4365-99e2-318cf7e6f720
+      )
+    )
+    [perpajakan] => Array
+    (
+      [0] => Array
+      (
+        [id_pengadaan] => 1
+        [id] => 233ba9f0-e405-4d82-9817-3ae8dd867f1a
+      )
+    )
+  )
+)
